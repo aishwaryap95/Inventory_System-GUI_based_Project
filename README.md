@@ -1,4 +1,4 @@
-# Inventory_System-GUI_based_Project
+# Inventory Management System using Java
 I have created GUI based Inventory management system using Java. I have used Java Swing for GUI designing.
 I have used MYSQL Database to connect system with database. 
 
